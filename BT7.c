@@ -3,7 +3,7 @@
 int main(){
 	int num;
 	int numb;
-	int count = 0;
+
 	printf("Moi ban nhap vao so luong phan tu cua mang: \n");
 	scanf("%d",&num);
 	int a[num];
